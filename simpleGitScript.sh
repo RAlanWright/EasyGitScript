@@ -1,5 +1,5 @@
 #!/bin/bash
-# This script will update the GitLab repository:
+# This script will update the Git repository:
 # 
 # Author: Robert Alan Wright
 
